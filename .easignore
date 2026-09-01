@@ -1,0 +1,10 @@
+# EAS Ignore File - ignore local native Android build directory so EAS Cloud runs clean Prebuild on Linux servers
+node_modules/
+.expo/
+dist/
+web-build/
+gradle-8.14.3-bin.zip
+android/
+*.apk
+*.zip
+.git/
